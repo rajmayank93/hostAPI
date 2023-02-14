@@ -10,7 +10,7 @@ app.get('/', function (req, res) {
 })
 
 
-var PORT = process.env.port || 8081;
+const PORT = process.env.port || 8081;
 var server = app.listen(PORT, function () {
    var host = server.address().address
    var port = server.address().port
