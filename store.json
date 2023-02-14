@@ -1,0 +1,19 @@
+{
+    "book1" : {
+        "id":1,
+        "title" : "Harry Potter",
+        "Price" : "Rs.99"
+    },
+    
+    "book2" : {
+        "id":2,
+        "title" : "Jungle King",
+        "Price" : "Rs.568"
+    },
+    
+    "book3" : {
+        "id":3,
+        "title" : "Jumangi",
+        "Price" : "Rs.200"
+    }
+ }
